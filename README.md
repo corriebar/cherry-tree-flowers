@@ -56,7 +56,7 @@ __Imputing and Interpolating__
 Useful resources for forecasting timeseries:
 
 - Book on timeseries [Forecasting. Principles and Practise](https://otexts.com/fpp2/) (uses R), e.g. chapter 5, 7, 8
-- The book [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/), Chapter 4, uses splines to estimate the flowering dates (also R, but Python ports)
+- The book [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/), Chapter 4, uses splines to estimate the flowering dates (also R, but Python ports exist)
 - [Splines in Python](https://www.kirenz.com/post/2021-12-06-regression-splines-in-python/regression-splines-in-python/)
 - [Timeseries Forecasting Methods in Python- Cheat Sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 - [Regression in scikit-learn](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
