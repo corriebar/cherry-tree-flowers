@@ -27,7 +27,7 @@ The temperature data has the following collumns:
 - upper/lower limit: (only for the smoothed estimate) limits of the 95% confidence interval in smoothing procedure
 - urban bias (hikone/kameoka weather station): urban bias was substracted
 
-For more details on the columns, please refer to the original [paper](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/)
+For more details on the columns, please refer to the original [paper](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/).
 
 
 
@@ -65,13 +65,13 @@ Useful resources for forecasting timeseries:
 ### Visualization
 The data lends itself well to some flowery visualizations:
 
-- [Some twitter user](https://twitter.com/RobinRohwer/status/1639097356657512449)) (with R code!)
+- [Some twitter user](https://twitter.com/RobinRohwer/status/1639097356657512449) (with R code!)
 - [The Economist](https://www.economist.com/graphic-detail/2017/04/07/japans-cherry-blossoms-are-emerging-increasingly-early)
 - [BBC](https://www.bbc.com/news/world-asia-56574142)
 - [Viz of Washington cherry trees](https://datainnovation.org/2023/03/visualizing-cherry-blossoms-blooming-periods/)
 
 
-A fun exercise can be to try to replicate some of these visualizations with your favorite plotting tool as good as you can.
+A fun exercise can be to try to replicate some of these visualizations with your favorite plotting tool.
 
 Plotting Tutorials:
 
