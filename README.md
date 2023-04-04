@@ -6,7 +6,7 @@
 
 The original data can be found [here](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/) together with information on how the data was collected.
 
-I also provided a pre-cleaned version of the data [here](data/cleaned_data.csv)
+I also provided a pre-cleaned version of the data [here](data/cleaned_data.csv).
 
 The data contains the following columns:
 
